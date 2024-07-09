@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T17:11:36.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" version="21.3.8" etag="NwGgZ19ISJ0kuY1AVuI3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T17:31:42.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="hY13ILbFHrmiAC8BFXJa" version="21.3.8" type="github">
   <diagram name="Page-1" id="DdglLA1FlACnbnPZemxv">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-7" value="&#xa;EIA&#xa;&#xa;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-8" value="Fred" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-9" value="yFinance" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-10" value="FMP" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-11" value="Refinitiv" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-12" value="CME" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-13" value="OTC" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-14" value="Ingester" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-15" value="Refinitiv Webhook" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-16" value="FMP Processor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-17" value="yFinance Processor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-19" value="Fred Processor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-22" value="OTC Processor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-23" value="CME Processor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-24" value="Fred Processor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXKl2mWZEcMrvazzEgIa-25" value="Generic Processor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
